@@ -1,5 +1,5 @@
 #r @"..\FSharpx.Collections.dll"
--- open System.Runtime.Remoting.Metadata.W3cXsd2001
+// open System.Runtime.Remoting.Metadata.W3cXsd2001
 open System
 open System.Drawing
 open System.IO
